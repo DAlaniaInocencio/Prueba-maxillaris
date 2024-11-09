@@ -1,5 +1,7 @@
 # Sistema de Gestión de Tareas - Backend
-
+![image](https://github.com/user-attachments/assets/d5e2db04-f167-4396-941c-8fbdaf5fbd9d)
+![image](https://github.com/user-attachments/assets/72cd28c8-7a9d-49ea-8c89-28234a68fcb5)
+![image](https://github.com/user-attachments/assets/ec8caa1c-a0e7-424c-abba-19622b8117db)
 Este proyecto es una API RESTful desarrollada en NestJs y React que permite gestionar tareas.
 
 
